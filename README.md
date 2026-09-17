@@ -11,17 +11,17 @@ Static academic homepage (plain HTML + CSS, no build step), designed for GitHub 
 
 ## Deploy to GitHub Pages
 
-1. Create a new **public** repository on GitHub named `<your-username>.github.io`.
+1. Create a new **public** repository on GitHub named `fxl98.github.io`.
 2. Push this folder to it:
 
    ```bash
-   git remote add origin git@github.com:<your-username>/<your-username>.github.io.git
+   git remote add origin git@github.com:fxl98/fxl98.github.io.git
    git branch -M main
    git push -u origin main
    ```
 
 3. On GitHub, open **Settings → Pages**, set *Source* to **Deploy from a branch**, branch `main`, folder `/ (root)`.
-4. After about a minute the site is live at `https://<your-username>.github.io`.
+4. After about a minute the site is live at `https://fxl98.github.io`.
 
 ## Updating
 
