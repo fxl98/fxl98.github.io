@@ -6,7 +6,6 @@ Static academic homepage (plain HTML + CSS, no build step), designed for GitHub 
 
 - `index.html` — the page content (edit this to update bio, news, publications, etc.)
 - `assets/style.css` — styling (light/dark mode follows the system setting)
-- `assets/Xuelu_CV.pdf` — CV linked from the sidebar
 - `assets/photo.jpg` — **add your photo here** (square, ~400×400 px). If missing, initials are shown instead.
 
 ## Deploy to GitHub Pages
